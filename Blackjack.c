@@ -1,7 +1,4 @@
-// Student: Jonathan Ho
-// Instructor: Mr. Wagner
-// Class: ComSci 121
-// Date: 5/11/09
+// @author Jonathan Ho
 
 #include <stdio.h>
 #include <stdlib.h>
